@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-06-30T13:37:03.573Z",
+  "source": "PropertyDealDesk Operations Center",
+  "clients": {
+    "PDD-1001": {
+      "name": "First Beta Client",
+      "company": "",
+      "edition": "match",
+      "status": "active",
+      "expiry_date": "2026-07-31",
+      "plan": "beta",
+      "message": "Access active"
+    }
+  }
+}
