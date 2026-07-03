@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T07:02:40.298Z",
+  "generated_at": "2026-07-03T16:21:29.772Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
@@ -8,6 +8,15 @@
       "edition": "match",
       "status": "active",
       "expiry_date": "2026-07-31",
+      "plan": "beta",
+      "message": "Access active"
+    },
+    "PDD-2001": {
+      "name": "TAN KEE SENG",
+      "company": "THE ROOF REALTY Sdn Bhd",
+      "edition": "match",
+      "status": "active",
+      "expiry_date": "2026-08-28",
       "plan": "beta",
       "message": "Access active"
     }
