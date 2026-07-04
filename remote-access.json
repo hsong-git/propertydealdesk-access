@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-03T16:21:29.772Z",
+  "generated_at": "2026-07-04T02:22:42.867Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
       "name": "BETA TESTING CLIENT",
       "company": "HSMC ENTERPRISE",
       "edition": "match",
-      "status": "active",
+      "status": "disabled",
       "expiry_date": "2026-07-31",
       "plan": "beta",
-      "message": "Access active"
+      "message": "Access disabled"
     },
     "PDD-2001": {
       "name": "TAN KEE SENG",
@@ -17,6 +17,15 @@
       "edition": "match",
       "status": "active",
       "expiry_date": "2026-08-28",
+      "plan": "beta",
+      "message": "Access active"
+    },
+    "PDD-3001": {
+      "name": "ONG HUA SEONG",
+      "company": "The Roof Realty",
+      "edition": "match",
+      "status": "active",
+      "expiry_date": "2026-07-31",
       "plan": "beta",
       "message": "Access active"
     }
