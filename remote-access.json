@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-04T02:23:20.706Z",
+  "generated_at": "2026-07-04T02:41:56.342Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
       "name": "BETA TESTING CLIENT",
       "company": "HSMC ENTERPRISE",
       "edition": "match",
-      "status": "disabled",
+      "status": "active",
       "expiry_date": "2026-07-31",
       "plan": "beta",
-      "message": "Access disabled"
+      "message": "Access active"
     },
     "PDD-2001": {
       "name": "TAN KEE SENG",
