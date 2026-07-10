@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T13:16:17.375Z",
+  "generated_at": "2026-07-10T02:16:43.441Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
@@ -16,7 +16,7 @@
       "company": "THE ROOF REALTY Sdn Bhd",
       "edition": "match",
       "status": "active",
-      "expiry_date": "2026-08-28",
+      "expiry_date": "2026-09-30",
       "plan": "beta",
       "message": "Access active"
     },
