@@ -1,33 +1,60 @@
 {
-  "generated_at": "2026-07-10T02:16:43.441Z",
+  "schemaVersion": 2,
+  "accessVersion": 1,
+  "issuedAt": "2026-07-14T02:33:29.843Z",
+  "generated_at": "2026-07-14T02:33:29.843Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
+      "clientId": "PDD-1001",
       "name": "BETA TESTING CLIENT",
       "company": "HSMC ENTERPRISE",
-      "edition": "match",
+      "edition": "match-beta",
       "status": "active",
+      "accessEnabled": true,
+      "trialStart": "2026-06-29",
+      "trialEnd": "2026-07-31",
+      "issuedAt": "2026-07-14T02:33:29.843Z",
+      "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
       "message": "Access active"
     },
     "PDD-2001": {
+      "clientId": "PDD-2001",
       "name": "TAN KEE SENG",
       "company": "THE ROOF REALTY Sdn Bhd",
-      "edition": "match",
+      "edition": "match-beta",
       "status": "active",
+      "accessEnabled": true,
+      "trialStart": "2026-06-28",
+      "trialEnd": "2026-09-30",
+      "issuedAt": "2026-07-14T02:33:29.843Z",
+      "accessExpiresAt": "2026-09-30",
       "expiry_date": "2026-09-30",
       "plan": "beta",
       "message": "Access active"
     },
     "PDD-3001": {
+      "clientId": "PDD-3001",
       "name": "ONG HUA SEONG",
       "company": "The Roof Realty",
-      "edition": "match",
+      "edition": "match-beta",
       "status": "active",
+      "accessEnabled": true,
+      "trialStart": "2026-06-29",
+      "trialEnd": "2026-07-31",
+      "issuedAt": "2026-07-14T02:33:29.843Z",
+      "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
       "message": "Access active"
     }
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "ed25519-d30c8a9cdd826b84",
+    "signedAt": "2026-07-14T02:33:29.843Z",
+    "signature": "MdqvWwpLNgcFjmUhYaSxUMIUAydccyTDH3U2Suen5KkF1cT5xDPaRX3HeJpX4xJp599EItv+UeJ6X/s8ApraBA=="
   }
 }
