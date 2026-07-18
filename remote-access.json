@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "accessVersion": 1,
-  "issuedAt": "2026-07-18T15:38:18.457Z",
-  "generated_at": "2026-07-18T15:38:18.457Z",
+  "issuedAt": "2026-07-18T15:38:44.719Z",
+  "generated_at": "2026-07-18T15:38:44.719Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
@@ -14,7 +14,7 @@
       "accessEnabled": true,
       "trialStart": "2026-06-29",
       "trialEnd": "2026-07-31",
-      "issuedAt": "2026-07-18T15:38:18.457Z",
+      "issuedAt": "2026-07-18T15:38:44.719Z",
       "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
@@ -25,15 +25,15 @@
       "name": "TAN KEE SENG",
       "company": "THE ROOF REALTY Sdn Bhd",
       "edition": "match-beta",
-      "status": "disabled",
-      "accessEnabled": false,
+      "status": "active",
+      "accessEnabled": true,
       "trialStart": "2026-06-28",
       "trialEnd": "2026-07-17",
-      "issuedAt": "2026-07-18T15:38:18.457Z",
+      "issuedAt": "2026-07-18T15:38:44.719Z",
       "accessExpiresAt": "2026-07-17",
       "expiry_date": "2026-07-17",
       "plan": "beta",
-      "message": "Access disabled"
+      "message": "Access active"
     },
     "PDD-3001": {
       "clientId": "PDD-3001",
@@ -44,7 +44,7 @@
       "accessEnabled": true,
       "trialStart": "2026-06-29",
       "trialEnd": "2026-07-31",
-      "issuedAt": "2026-07-18T15:38:18.457Z",
+      "issuedAt": "2026-07-18T15:38:44.719Z",
       "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
@@ -54,7 +54,7 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "ed25519-d30c8a9cdd826b84",
-    "signedAt": "2026-07-18T15:38:18.458Z",
-    "signature": "vevRZQooZYIT0t2LBg12ZL9NvueFJYQ9IbLKolRVJXlMwOc1/1tq3cEzYCsh7XLpUuWfJyCQoG5QsuJ5bf9VAg=="
+    "signedAt": "2026-07-18T15:38:44.719Z",
+    "signature": "SULADYEHw/dHfhtlZ6hsVUEAeiccuCyKglkbgh++XvpupDYymrBR68+yCHRvZSKxrpm/zQDEzk6umFKuujJhDA=="
   }
 }
