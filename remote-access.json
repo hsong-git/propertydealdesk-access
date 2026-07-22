@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "accessVersion": 1,
-  "issuedAt": "2026-07-22T08:26:57.516Z",
-  "generated_at": "2026-07-22T08:26:57.516Z",
+  "issuedAt": "2026-07-22T09:26:53.969Z",
+  "generated_at": "2026-07-22T09:26:53.969Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
@@ -14,7 +14,7 @@
       "accessEnabled": true,
       "trialStart": "2026-06-29",
       "trialEnd": "2026-07-31",
-      "issuedAt": "2026-07-22T08:26:57.516Z",
+      "issuedAt": "2026-07-22T09:26:53.969Z",
       "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
@@ -29,7 +29,7 @@
       "accessEnabled": true,
       "trialStart": "2026-06-28",
       "trialEnd": "2026-10-17",
-      "issuedAt": "2026-07-22T08:26:57.516Z",
+      "issuedAt": "2026-07-22T09:26:53.969Z",
       "accessExpiresAt": "2026-10-17",
       "expiry_date": "2026-10-17",
       "plan": "beta",
@@ -44,7 +44,7 @@
       "accessEnabled": true,
       "trialStart": "2026-06-29",
       "trialEnd": "2026-07-31",
-      "issuedAt": "2026-07-22T08:26:57.516Z",
+      "issuedAt": "2026-07-22T09:26:53.969Z",
       "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
@@ -54,7 +54,7 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "ed25519-d30c8a9cdd826b84",
-    "signedAt": "2026-07-22T08:26:57.516Z",
-    "signature": "WQ+XazIuIFspjtg+BlLZHF2tJNnHghnzFZQQJA9mBxNi+V9rvbHHDxcTqcxfbLWZnK2CDvAQL16z8De2+2TyBw=="
+    "signedAt": "2026-07-22T09:26:53.970Z",
+    "signature": "8+s2AbamFvgHYq0Zav4lTKyMZdsAz/NFR4sGsSg3mh1h5bsKJ//54BXV29gtkWHFcVabBiGkkcCgK/ShfyxfCQ=="
   }
 }
