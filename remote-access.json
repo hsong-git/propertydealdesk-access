@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "accessVersion": 1,
-  "issuedAt": "2026-07-22T09:34:20.761Z",
-  "generated_at": "2026-07-22T09:34:20.761Z",
+  "issuedAt": "2026-07-23T03:49:58.115Z",
+  "generated_at": "2026-07-23T03:49:58.115Z",
   "source": "PropertyDealDesk Operations Center",
   "clients": {
     "PDD-1001": {
@@ -10,15 +10,15 @@
       "name": "BETA TESTING CLIENT",
       "company": "HSMC ENTERPRISE",
       "edition": "match-beta",
-      "status": "active",
-      "accessEnabled": true,
+      "status": "disabled",
+      "accessEnabled": false,
       "trialStart": "2026-06-29",
       "trialEnd": "2026-07-31",
-      "issuedAt": "2026-07-22T09:34:20.761Z",
+      "issuedAt": "2026-07-23T03:49:58.115Z",
       "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
-      "message": "Access active"
+      "message": "Access disabled"
     },
     "PDD-2001": {
       "clientId": "PDD-2001",
@@ -29,7 +29,7 @@
       "accessEnabled": true,
       "trialStart": "2026-06-28",
       "trialEnd": "2026-07-23",
-      "issuedAt": "2026-07-22T09:34:20.761Z",
+      "issuedAt": "2026-07-23T03:49:58.115Z",
       "accessExpiresAt": "2026-07-23",
       "expiry_date": "2026-07-23",
       "plan": "beta",
@@ -44,7 +44,7 @@
       "accessEnabled": true,
       "trialStart": "2026-06-29",
       "trialEnd": "2026-07-31",
-      "issuedAt": "2026-07-22T09:34:20.761Z",
+      "issuedAt": "2026-07-23T03:49:58.115Z",
       "accessExpiresAt": "2026-07-31",
       "expiry_date": "2026-07-31",
       "plan": "beta",
@@ -54,7 +54,7 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "ed25519-d30c8a9cdd826b84",
-    "signedAt": "2026-07-22T09:34:20.762Z",
-    "signature": "AIk5BtChtr1KTjZ3WqRbtrrSE22mzg2x4S6DmSWfT5Ea9paN48HpevCYr+JzZwFzBFdaWrCnK7illxvGjDznAw=="
+    "signedAt": "2026-07-23T03:49:58.115Z",
+    "signature": "cd1IPmQtbzrL021kGGXUHRBC2QDQTpZjX7KPlXwYiytG40/WvUu0QDse/J/ha2/XoxobkmhrI8ixSfpxuhmLBA=="
   }
 }
